@@ -6,10 +6,22 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2020 01:41:11 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 03:47:33 -0500</lastBuildDate>
     
 	<atom:link href="https://xiaofeng-zerone.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo使用</title>
+      <link>https://xiaofeng-zerone.github.io/posts/hugo%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Tue, 03 Mar 2020 03:47:33 -0500</pubDate>
+      
+      <guid>https://xiaofeng-zerone.github.io/posts/hugo%E4%BD%BF%E7%94%A8/</guid>
+      <description>简介 ​	Hugo是一种静态网站生成器。适用于搭建个人博客、小型公司主页等网站，是一种小型的CMS系统。静态站点的好处就是快速、安全、易于部署，方便管理。
+​	在csdn或者有道笔记等平台上进行个人知识管理，很多地方受限制，还收费啥啥的，也不知道几年后会不会关门了。所以折腾下个人博客也挺好的，记录些自己平时的技术经历。
+hugo优势 快！！！世界上最快的静态网站生成工具！5秒生成6000个页面！ 文档为Markdown格式,语法超简单； 丰富的主题； 多环境支持：macos、linux、windows 安装 golang安装 yum -y install golang hugo安装 添加源 vim /etc/yum.repos.d/hugo.repo
+[daftaupe-hugo] name=Copr repo for hugo owned by daftaupe baseurl=https://copr-be.cloud.fedoraproject.org/results/daftaupe/hugo/epel-7-$basearch/ type=rpm-md skip_if_unavailable=True gpgcheck=1 gpgkey=https://copr-be.cloud.fedoraproject.org/results/daftaupe/hugo/pubkey.gpg repo_gpgcheck=0 enabled=1 安装hugo yum -y install hugo 版本查看 hugo version 本地博客搭建 创建站点 [root@localhost hugo]# hugo new site mysite [root@localhost hugo]# cd mysite/ [root@localhost mysite]# ls -l 总用量 4 drwxr-xr-x 2 root root 24 3月 3 01:13 archetypes -rw-r--r-- 1 root root 82 3月 3 01:13 config.</description>
+    </item>
     
     <item>
       <title>Hello World</title>

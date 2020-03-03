@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xiaofeng-zerone.github.io/posts/hello-world/</loc>
-    <lastmod>2020-03-03T01:41:11-05:00</lastmod>
+    <loc>https://xiaofeng-zerone.github.io/posts/hugo%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2020-03-03T03:47:33-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://xiaofeng-zerone.github.io/</loc>
-    <lastmod>2020-03-03T01:41:11-05:00</lastmod>
+    <lastmod>2020-03-03T03:47:33-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://xiaofeng-zerone.github.io/posts/</loc>
+    <lastmod>2020-03-03T03:47:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xiaofeng-zerone.github.io/posts/hello-world/</loc>
     <lastmod>2020-03-03T01:41:11-05:00</lastmod>
   </url>
   
